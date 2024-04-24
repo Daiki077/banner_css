@@ -1,0 +1,74 @@
+body{
+    background-image: url(https://www.hdwallpapers.in/download/tanjiro_kamado_4k_hd_demon_slayer_kimetsu_no_yaiba_3-3840x2160.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    display: inline-block;
+}
+.banner1{
+    background-image: url(https://media.istockphoto.com/id/1013718706/vector/blue-geometric-shapes-abstract-vector-background.jpg?s=612x612&w=0&k=20&c=svy40Wm02LRo1rv630ecXOjIotyYsE1CH2eeEWa9Lx0=);
+    width: 300px;
+    height: 250px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    border: 5px solid;
+    border-color: black;
+    vertical-align: right;
+    margin-left: 400px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.text_p{
+    font-family: georgia;
+    font-size: 20px;
+    margin-right: 15px;
+}
+.text_h{
+    font-size: 16px;
+    font-family: georgia;
+    margin-right: 15px;
+}
+.red_i{
+    color: red;
+}
+
+
+li.r::marker {
+    font-size: 20px;
+    color: red;
+}
+
+.banner2{
+    background-image: url(https://media.istockphoto.com/id/1013718706/vector/blue-geometric-shapes-abstract-vector-background.jpg?s=612x612&w=0&k=20&c=svy40Wm02LRo1rv630ecXOjIotyYsE1CH2eeEWa9Lx0=);
+    width: 300px;
+    height: 250px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 40px;
+    border: 5px solid;
+    border-color: black;
+    vertical-align: right;
+    margin-left: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.text_p2{
+    font-family: verdana;
+    font-size: 20px;
+    margin-right: 15px;
+}
+.text_h2{
+    font-size: 16px;
+    font-family: verdana;
+    margin-right: 15px;
+}
+.green{
+    color: green;
+}
+li.g::marker {
+    font-size: 20px;
+    color: green;
+
+}
+
